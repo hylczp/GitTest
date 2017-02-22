@@ -8,8 +8,6 @@ public class MainActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-//¹þ¹þ
-//·ÖÖ§
         setContentView(R.layout.activity_main);
     }
 }
